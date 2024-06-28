@@ -1,0 +1,24 @@
+.fields{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    width: 60vh;
+    gap: 20px;
+    padding: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.editPage{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+   width: 100%;
+}
+.addStd{
+font-family: Roboto;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+
+}

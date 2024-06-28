@@ -1,0 +1,23 @@
+.serach{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.buttonField{
+    display: flex;
+    gap: 10px;
+}
+.students{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 36px;
+    text-align: left;
+    color: #374151;
+}
+.detailTable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+}

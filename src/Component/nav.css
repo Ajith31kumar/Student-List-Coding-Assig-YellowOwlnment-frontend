@@ -1,0 +1,26 @@
+.navbarMain{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+.navbarD{
+  height: 4rem;
+  width: 100%;
+  background: linear-gradient(90deg, #4ADE80 0%, #3B82F6 100%);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  color: white;
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+}
+.mainWrapper{
+  height: calc(100vh - 4rem);
+  overflow-y: auto;
+}

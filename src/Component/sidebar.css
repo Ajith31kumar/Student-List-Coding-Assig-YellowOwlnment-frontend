@@ -1,0 +1,39 @@
+.sidebar{
+  width: 18rem;
+  height: 100vh;
+  background: linear-gradient(90deg, #1E40AF 0%, #9333EA 100%);
+}
+.pic{
+  width: 40px;
+  height: 40px;
+  gap: 0px;
+  border-radius: 50%;
+  background-color: white;
+
+}
+.profile{
+  display: flex;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.admin{
+  margin-right: 38px;
+  font-weight: lighter;
+  font-size: small;
+   
+}
+.yellow-owl{
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: medium;
+  
+}
